@@ -20,7 +20,7 @@
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-Shahzaib%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaib%20raza) |
+| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/-Shahzaib%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaib-raza-26baa7343) |
 | **LeetCode** | [![LeetCode Badge](https://img.shields.io/badge/-Shahzaib%20Raza-FF9900?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/shahzaib%20raza) |
 | **Projects** | [![GitHub Projects](https://img.shields.io/badge/All%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)]([YOUR_PROJECT_REPO]) |
 
