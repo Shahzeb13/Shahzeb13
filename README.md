@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 I'm currently working on **SafeCampus**, a [brief description of project].
+* 🔭 I'm currently working on **SafeCampus**, a [An AI powered Campus Security manamagement System].
 * 🌱 I’m currently diving deep into **Data Structures and Algorithms**.
 * 💬 Ask me about **React, Express, and Flutter**—I love helping out!
 * 📫 How to reach me: **razashahzaib119@gmail.com**
