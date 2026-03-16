@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **SafeCampus** — An AI-powered Campus Security Management System.
+- 🔭 I'm currently working on **SearchEngineX** .
 - 🌱 Currently diving deep into **Data Structures and Algorithms**.
-- 💬 Ask me about **React, Next.js, Express, and Flutter**.
+- 💬 Ask me about **React, Next.js, Express, and ReactNative**.
 - 📫 Reach me at: **razashahzaib119@gmail.com**
 - ⚡ Fun fact: You can fit **13 million Earths** inside the Sun. Space is wild.
 
