@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbFwJ4n4N64/giphy.gif" width="60"/>
   <h1>Hi there 👋, I'm Shahzeb</h1>
-  <h3>A Passionate Full Stack Web & App Developer</h3>
+  <h3>Full Stack NodeJS Developer</h3>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **SearchEngineX** .
+
 - 🌱 Currently diving deep into **Data Structures and Algorithms**.
 - 💬 Ask me about **React, Next.js, Express, and ReactNative**.
 - 📫 Reach me at: **razashahzaib119@gmail.com**
