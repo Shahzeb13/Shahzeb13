@@ -49,8 +49,8 @@
 ---
 
 ### 📱 Mobile
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
 ---
 
 ### 🗄️ Databases
